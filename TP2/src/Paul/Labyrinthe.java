@@ -16,11 +16,10 @@ import java.io.*;
 public class Labyrinthe {
     
    public int tailleX, tailleY ;
-   public int testgut;
 public int departX, departY ;
 public int arriveeX, arriveeY; 
 private int posX, posY ;
-// ceci est un test pour git
+// ceci est un test pour git olololol
     
     
     
